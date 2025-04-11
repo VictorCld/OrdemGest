@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Main">
+  <grid id="27dc6" binding="MainPanel" layout-manager="GridLayoutManager" row-count="5" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="15" vgap="15">
+    <margin top="5" left="5" bottom="5" right="5"/>
+    <constraints>
+      <xy x="17" y="14" width="475" height="324"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="5dd17" class="javax.swing.JButton" binding="CadBtn">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="200" height="50"/>
+            <maximum-size width="200" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="CADASTROS"/>
+        </properties>
+      </component>
+      <component id="a1eb3" class="javax.swing.JLabel" binding="TitleEscolha">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Escolha uma opção de menu abaixo:"/>
+        </properties>
+      </component>
+      <component id="f38bd" class="javax.swing.JButton" binding="ORDEMDESERVIÇOSButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="200" height="50"/>
+            <maximum-size width="200" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="ORDEM DE SERVIÇOS"/>
+        </properties>
+      </component>
+      <component id="a594e" class="javax.swing.JButton" binding="SERVIÇOSButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="200" height="50"/>
+            <maximum-size width="200" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="SERVIÇOS"/>
+        </properties>
+      </component>
+      <component id="f5d6c" class="javax.swing.JButton" binding="PAGBtn">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="200" height="50"/>
+            <maximum-size width="200" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="PAGAMENTOS"/>
+        </properties>
+      </component>
+      <component id="9499b" class="javax.swing.JButton" binding="SAIRButton">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="180" height="35"/>
+            <maximum-size width="180" height="35"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="SAIR"/>
+        </properties>
+      </component>
+      <component id="a41da" class="javax.swing.JButton" binding="HISTORICOButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="200" height="50"/>
+            <maximum-size width="200" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="HISTORICO"/>
+        </properties>
+      </component>
+      <component id="a2750" class="javax.swing.JButton" binding="CLIENTESButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="200" height="50"/>
+            <maximum-size width="200" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="DADOS DOS CLIENTES"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

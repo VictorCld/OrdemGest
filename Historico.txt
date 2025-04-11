@@ -1,0 +1,12 @@
+
+Ordem-1(FINALIZADA)
+Cliente: victor
+Serviço: eletrico
+Técnico: joao
+Descrição: c
+Preço: 100.0
+Prazo: 2 Horas
+Emergencial: SIM
+Finalizada: NÃO
+
+
