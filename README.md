@@ -24,4 +24,6 @@ Este projeto foi desenvolvido como parte de um exercício de Programação Orien
 - `.gitignore`: Arquivo que define quais arquivos devem ser ignorados pelo Git.
 - `PROJETO-POO.iml`: Arquivo de configuração de projeto do IntelliJ IDEA.
 
-Este projeto foi desenvolvido por mim Victor Gabriel.
+## 👨‍💻 Autor
+
+- [VictorCld](https://github.com/VictorCld)
